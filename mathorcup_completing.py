@@ -1,3 +1,4 @@
+#20241219 cug 086232 赖恒远
 import gurobipy as gp
 from gurobipy import Model, GRB
 import tkinter as tk
